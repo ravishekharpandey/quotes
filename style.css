@@ -1,12 +1,6 @@
-
+#container{
+    background-color: blue;
+}
 h1{
     text-align: center;
-}
-#gen{
-    text-align: center;
-    margin: auto;
-}
-.quoteDisplay{
-    background-color: blue;
-    color: white;
 }
